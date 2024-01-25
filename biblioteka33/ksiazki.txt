@@ -1,0 +1,11 @@
+TytulKsiazki1
+Autor1
+0
+
+Tytulksiazki2
+autor21
+1
+
+tytulksiazki4
+autor3
+1
